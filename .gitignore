@@ -1,0 +1,20 @@
+# Dart/Pub specific files
+.dart_tool/
+.packages
+
+# Flutter specific files
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.idea/
+.vscode/
+build/
+
+# MacOS specific files
+.DS_Store
+
+# Miscellaneous
+*.log
+*.tmp
+*.swp
+*.lock
